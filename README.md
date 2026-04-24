@@ -39,7 +39,7 @@ Clone and open in any Markdown viewer:
 - **Typora / Zettlr** — any desktop Markdown editor
 
 ```bash
-git clone https://github.com/harimsd07/sysadmin-notes.git
+git clone https://github.com/harimsd07/Computer_Fundamentals.git
 ```
 
 Start at [00_INDEX.md](00_INDEX.md).
