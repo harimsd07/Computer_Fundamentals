@@ -1,0 +1,56 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.vim/
+
+# Obsidian workspace files
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/cache
+
+# Typora theme
+.typora/
+
+# Build artifacts
+_site/
+_build/
+dist/
+build/
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Archive files (notes should stay as .md)
+*.zip
+*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+
+# Node
+node_modules/
+package-lock.json
